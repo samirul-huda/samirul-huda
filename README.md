@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ I am now 19 years old<br>🏫 I am currently studying at STMIK Widya Pratama<br>⚡ I'm currently learning a programming language<br>💻 I aspire to be a web developer<br>
+🙋‍♂️ I am now 20 years old<br>🏫 I am currently studying at STMIK Widya Pratama<br>⚡ I'm currently learning a programming language<br>💻 I aspire to be a web developer<br>
 
 
 ## 🌐 Socials:
